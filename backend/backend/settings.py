@@ -95,7 +95,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'backend.wsgi.application'
 
-KHALTI_SECRET_KEY = 'd9bffd15501b47fbac8efd37607ff894'
+KHALTI_SECRET_KEY = 'df3633fb37054e5284af7a4c39e2228'
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
@@ -106,7 +106,7 @@ DATABASES = {
         "NAME": "venue",
         "USER": "postgres",
 
-        "PASSWORD": "20600703",
+        "PASSWORD": "reeya",
         "HOST": "localhost",
         "PORT": "5432",
     }
